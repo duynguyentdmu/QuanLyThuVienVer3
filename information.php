@@ -77,7 +77,7 @@ require_once 'valid.php';
 
 
                 <p><h2>Thư viện là kho tàng chứa tất cả của cải tinh thần của loài người.
-        và Môngtexkiơ đã nói: Thích đọc sách tức là biết đánh đổi những giờ phút buồn tẻ không thể tránh được trong cuộc đời lấy những giờ phút lý thú. Sách là một kho tàng huyền bí làm kích thích sự tò mò của biết bao người. Sách là những trang giấy ghi lại các sự kiện đời sống, các phát minh khoa học, những diễn biến lịch sử, các kiến thức tự nhiên, các tác phẩm văn học và còn nhiều vấn đề khác của nhân loại, sách còn là một phương tiện giúp chúng ta rèn luyện nhân cách con người.
+        và Môngtexkiơ đã nói Thích đọc sách tức là biết đánh đổi những giờ phút buồn tẻ không thể tránh được trong cuộc đời lấy những giờ phút lý thú. Sách là một kho tàng huyền bí làm kích thích sự tò mò của biết bao người. Sách là những trang giấy ghi lại các sự kiện đời sống, các phát minh khoa học, những diễn biến lịch sử, các kiến thức tự nhiên, các tác phẩm văn học và còn nhiều vấn đề khác của nhân loại, sách còn là một phương tiện giúp chúng ta rèn luyện nhân cách con người.
 
         Tuy nhiên, trước thực trạng về vấn đề “văn hóa đọc” đang đi xuống, nên đã từ lâu, nhiều loại sách, nhiều đầu sách chưa đến được với người đọc cũng như nhiều người chưa tìm đến với sách, chưa tìm thấy nguồn vui, sự tìm tòi khám phá, những kinh nghiệm cũng như những cảm xúc sâu sắc mà sách mang lại. Nhân buổi chào cờ sáng hôm nay em xin phép được giới thiệu đến toàn thể giáo viên, nhân viên cùng các bạn học sinh về thư viện trường của chúng ta. Lời đầu tiên cho phép em gửi đến quý giáo viên, nhân viên lời chúc sức khoẻ, hạnh phúc và chúc cho các bạn học sinh một năm học mới gặt hái được nhiều thành công.
 
