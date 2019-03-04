@@ -51,7 +51,7 @@
 					<br />
 					<div class = "form-group">
 						<button type = "button" id = "login" class = "btn btn-primary btn-block"><span class = "glyphicon glyphicon-save"></span> ĐĂNG NHẬP</button>
-                        <button  type = "button" id = "" class = "btn btn-block"><a href="writenote.html"> GHI CHÚ</a> </button>
+                        <button  type = "button" id = "" class = "btn btn-block"><a href="writenote.html"> GHI CHÚ </a> </button>
                     </div>
 				</form>	
 				<div id = "result"></div>

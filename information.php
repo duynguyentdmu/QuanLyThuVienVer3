@@ -17,7 +17,7 @@ require_once 'valid.php';
 <nav class = "navbar navbar-default navbar-fixed-top">
     <div class = "container-fluid">
         <div class = "navbar-header">
-            <img src = "images/logo.png" width = "50px" height = "50px" />
+            <img src = "images/ntlogo.png" width = "50px" height = "50px" />
             <h4 class = "navbar-text navbar-right">THÔNG TIN THƯ VIỆN TRƯỜNG THPT NGUYỄN TRÃI</h4>
         </div>
     </div>
@@ -33,7 +33,7 @@ require_once 'valid.php';
         <hr style = "border:1px dotted #d3d3d3;"/>
         <ul id = "menu" class = "nav menu">
             <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "home.php"><i class = "glyphicon glyphicon-home"></i> Trang Chủ</a></li>
-            <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "information.php"><i class = "glyphicon glyphicon-home"></i> Thông Tin</a></li>
+            <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "information.php"><i class = "glyphicon glyphicon-home"></i> Giới Thiệu</a></li>
             <!--<li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = ""><i class = "glyphicon glyphicon-tasks"></i> QL Tài Khoản</a> -->
             <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "admin.php"><i class = "glyphicon glyphicon-tasks"></i> Người Quản Lý</a></li>
             <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "student.php"><i class = "glyphicon glyphicon-tasks"></i> Học Sinh́</a></li>
@@ -99,9 +99,16 @@ require_once 'valid.php';
         </span>
       
        <tr>
-           <th><br/><img src="images/logo.png"><br/></th>
-           <th><img src="images/load1.gif"><br/></th>
-           <th><img src="images/ntlogo.png"></th>
+    
+        <table>
+            <tr>
+            <th></th>
+            <th> <th><img src="images/ntlogo.png"></th></th>
+            <th></th>
+            </tr>
+
+        </table>
+
         <th></th>
        </tr>
 

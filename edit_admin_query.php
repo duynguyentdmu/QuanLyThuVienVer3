@@ -11,15 +11,18 @@
 		if($v_admin == 1){
 			echo '
 				<script type = "text/javascript">
-					alert("Username already taken");
+					alert("Tên người dùng đã được sử dụng");
 					window.location = "admin.php";
 				</script>
 			';
 		}else{
+			//cau lenh nay la cau lenh cap nhat thong tin admin ma k cap nhat username
 			$conn->query("UPDATE `admin` SET `username` = '$username', `password` = '$password', `firstname` = '$firstname', `middlename` = '$middlename', `lastname` = '$lastname' WHERE `admin_id` = '$_REQUEST[admin_id]'") or die(mysqli_error());
+			//cau lenh duoi dong nay la cau lenh goc
+			//$conn->query("UPDATE `admin` SET `username` = '$username', `password` = '$password', `firstname` = '$firstname', `middlename` = '$middlename', `lastname` = '$lastname' WHERE `admin_id` = '$_REQUEST[admin_id]'") or die(mysqli_error());			
 			echo '
 				<script type = "text/javascript">
-					alert("Save Changes");
+					alert("Lưu thay đổi");
 					window.location = "admin.php";
 				</script>
 			';

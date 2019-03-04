@@ -4,7 +4,7 @@
 ?>	
 <html lang = "eng">
 	<head>
-		<title>HỆ THỐNG QUẢN LÝ THƯ VIỆN</title>
+		<title>HỆ THỐNG QUẢN LÝ THƯ VIỆN THPT NGUYỄN TRÃI</title>
 		<meta charset = "utf-8" />
 		<meta name = "viewport" content = "width=device-width, initial-scale=1" />
 		<link rel = "stylesheet" type = "text/css" href = "css/bootstrap.css" />
@@ -34,7 +34,7 @@
 				<hr style = "border:1px dotted #d3d3d3;"/>
 				<ul id = "menu" class = "nav menu">
 					<li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "home.php"><i class = "glyphicon glyphicon-home"></i> Trang Chủ</a></li>
-                    <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "information.php"><i class = "glyphicon glyphicon-home"></i> Thông Tin</a></li>
+                    <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "information.php"><i class = "glyphicon glyphicon-home"></i> Giới Thiệu</a></li>
 					<!--<li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = ""><i class = "glyphicon glyphicon-tasks"></i> QL Tài Khoản</a> -->
                     <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "admin.php"><i class = "glyphicon glyphicon-tasks"></i> Người Quản Lý</a></li>
                     <li><a style = "font-size:18px; border-bottom:1px solid #d3d3d3;" href = "student.php"><i class = "glyphicon glyphicon-tasks"></i> Học Sinh́</a></li>
@@ -83,23 +83,6 @@
                 <script type="text/javascript" src="engine1/wowslider.js"></script>
                 <script type="text/javascript" src="engine1/script.js"></script>
                 <!-- End WOWSlider.com BODY section -->
-
-                <label><h1>GIỚI THIỆU THƯ VIỆN TRƯỜNG THPT NGUYỄN TRÃI</h1></label>
-                <label><h3>1/trang login dang nhap la trang index.php</h3></label>
-                <label><h3>khi bam vao nut dang nhap thi duoc chuyen sang login.js</h3></label>
-                <label><h3>phan hien thi so luong dong cua muc duoc dat trong jquerry.datatable.js</h3></label>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
             </div>
