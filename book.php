@@ -175,7 +175,7 @@
 	</script>
 	<script type = "text/javascript">
 		$(document).ready(function(){
-			$result = $('<center><label>Deleting...</label></center>');
+			$result = $('<center><label>Đang Xóa Sách ... </label></center>');
 			$('.delbook_id').click(function(){
 				$book_id = $(this).attr('value');
 				$(this).parents('td').empty().append($result);

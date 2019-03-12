@@ -10664,7 +10664,7 @@
 			 *    $(document).ready( function() {
 			 *      $('#example').dataTable( {
 			 *        "language": {
-			 *          "infoPostFix": "All records shown are derived from real information."
+			 *          "infoPostFix": "Tất cả các hồ sơ hiển thị được bắt nguồn từ thông tin thực tế"
 			 *        }
 			 *      } );
 			 *    } );
