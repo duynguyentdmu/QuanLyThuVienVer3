@@ -11,7 +11,7 @@
 		if($v_admin == 1){
 			echo '
 				<script type = "text/javascript">
-					alert("Tên người dùng đã được sử dụng!");
+					alert("Tên tài khoản đã tồn tại, vui lòng thử lại!");
 					window.location = "admin.php";
 				</script>
 			';
@@ -19,7 +19,7 @@
 			$conn->query("INSERT INTO `admin` VALUES('', '$username', '$password', '$firstname', '$middlename', '$lastname')") or die(mysqli_error());
 			echo '
 				<script type = "text/javascript">
-					alert("Lưu dữ liệu thành công");
+					alert("Lưu dữ liệu người dùng thành công!");
 					window.location = "admin.php";
 				</script>
 			';

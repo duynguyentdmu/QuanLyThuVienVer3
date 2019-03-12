@@ -17,7 +17,7 @@ require_once 'valid.php';
 <nav class = "navbar navbar-default navbar-fixed-top">
     <div class = "container-fluid">
         <div class = "navbar-header">
-            <img src = "images/ntlogo.png" width = "50px" height = "50px" />
+            <img src = "images/logo.png" width = "50px" height = "50px" />
             <h4 class = "navbar-text navbar-right">THÔNG TIN THƯ VIỆN TRƯỜNG THPT NGUYỄN TRÃI</h4>
         </div>
     </div>

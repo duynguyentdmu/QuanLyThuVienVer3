@@ -16,7 +16,7 @@
 		</div>
 		<div class = "form-group">	
 			<label>Tên đệm:</label>
-			<input type = "text" name = "middlename" value = "<?php echo $f_student['middlename']?>" placeholder = "(Optional)" class = "form-control" />
+			<input type = "text" name = "middlename" value = "<?php echo $f_student['middlename']?>" placeholder = "(Không bắt buộc)" class = "form-control" />
 		</div>	
 		<div class = "form-group">	
 			<label>Tên:</label>
