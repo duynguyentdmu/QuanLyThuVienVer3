@@ -20,7 +20,7 @@
 			$conn->query("INSERT INTO `student` VALUES('', '$student_no', '$firstname', '$middlename', '$lastname', '$course', '$section')") or die(mysqli_error());
 			echo'
 				<script type = "text/javascript">
-					alert("Successfully saved data");
+					alert("Lưu dữ liệu học sinh thành công!");
 					window.location = "student.php";
 				</script>
 			';

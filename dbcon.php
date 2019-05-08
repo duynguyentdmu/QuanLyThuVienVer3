@@ -19,7 +19,7 @@ if (mysqli_connect_errno())
 }
 */
 
-$con=mysqli_connect("localhost","root","0562324","db_ls");
+$con=mysqli_connect("localhost","root","","db_ls");
 
 
 

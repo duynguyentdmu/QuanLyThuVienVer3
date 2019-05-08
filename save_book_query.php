@@ -11,7 +11,7 @@
 		
 		echo'
 			<script type = "text/javascript">
-				alert("Successfully saved data");
+				alert("Lưu dữ liệu sách thành công!");
 				window.location = "book.php";
 			</script>
 		';

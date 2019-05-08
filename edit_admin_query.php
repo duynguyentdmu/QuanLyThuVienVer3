@@ -11,7 +11,7 @@
 		if($v_admin == 1){
 			echo '
 				<script type = "text/javascript">
-					alert("Tên người dùng đã được sử dụng");
+					alert("Tên tài khoản đã tồn tại, vui lòng thử lại");
 					window.location = "admin.php";
 				</script>
 			';

@@ -60,7 +60,7 @@
 			</div>
 			<div class = "col-lg-1"></div>
 			<div class = "col-lg-9 well" style = "margin-top:60px;">
-				<div class = "alert alert-info">Tài khoản/ Admin</div>
+				<div class = "alert alert-info">Tài khoản người dùng</div>
 					<button id = "add_admin" type = "button" class = "btn btn-primary"><span class = "glyphicon glyphicon-plus"></span> Thêm</button>
 					<button id = "show_admin" type = "button" style = "display:none;" class = "btn btn-success"><span class = "glyphicon glyphicon-circle-arrow-left"></span> Quay lại</button>
 					<br />
@@ -172,7 +172,7 @@
 	</script>
 	<script type = "text/javascript">
 		$(document).ready(function(){
-			$result = $('<center><label>Deleting...</label></center>');
+			$result = $('<center><label>Đang Xóa ...</label></center>');
 			$('.deladmin_id').click(function(){
 				$admin_id = $(this).attr('value');
 				$(this).parents('td').empty().append($result);
